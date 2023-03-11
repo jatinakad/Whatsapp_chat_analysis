@@ -1,9 +1,0 @@
-emoji
-matplotlib
-numpy
-pandas
-pandas
-seaborn
-streamlit
-urlextract
-wordcloud
